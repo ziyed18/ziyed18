@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: Building full-stack web applications with React & Node.js <br>
+👯 I’m looking to collaborate on: Open-source projects in web development and AI <br>
+🤝 I’m looking for help with: Best practices in scalable backend architecture <br>
+🌱 I’m currently learning: Cloud computing (AWS) & DevOps basics <br>
+💬 Ask me about: JavaScript, Python, Git, or how to start in open-source <br>
+⚡ Fun fact: I can debug faster with coffee ☕ than without
+
 
 
 ## 🌐 Socials:
