@@ -5,7 +5,7 @@
 🤝 I’m looking for help with: Best practices in scalable backend architecture <br>
 🌱 I’m currently learning: Cloud computing (AWS) & DevOps basics <br>
 💬 Ask me about: JavaScript, Python, Git, or how to start in open-source <br>
-⚡ Fun fact: I can debug faster with coffee ☕ than without
+⚡ Fun fact: I can debug faster with coffee ☕ than without.
 
 
 
